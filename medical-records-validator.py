@@ -88,4 +88,4 @@ def validate(data):
 if __name__ == "__main__":
     validate(medical_records)
 
-validate(medical_records)
+
